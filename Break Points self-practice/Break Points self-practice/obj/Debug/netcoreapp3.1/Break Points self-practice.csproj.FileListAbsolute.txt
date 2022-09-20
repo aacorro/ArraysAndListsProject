@@ -1,0 +1,14 @@
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\bin\Debug\netcoreapp3.1\Break Points self-practice.exe
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\bin\Debug\netcoreapp3.1\Break Points self-practice.deps.json
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\bin\Debug\netcoreapp3.1\Break Points self-practice.runtimeconfig.json
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\bin\Debug\netcoreapp3.1\Break Points self-practice.runtimeconfig.dev.json
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\bin\Debug\netcoreapp3.1\Break Points self-practice.dll
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\bin\Debug\netcoreapp3.1\Break Points self-practice.pdb
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.csproj.AssemblyReference.cache
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.AssemblyInfoInputs.cache
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.AssemblyInfo.cs
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.csproj.CoreCompileInputs.cache
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.dll
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.pdb
+C:\Users\abdie\source\repos\Break Points self-practice\Break Points self-practice\obj\Debug\netcoreapp3.1\Break Points self-practice.genruntimeconfig.cache
