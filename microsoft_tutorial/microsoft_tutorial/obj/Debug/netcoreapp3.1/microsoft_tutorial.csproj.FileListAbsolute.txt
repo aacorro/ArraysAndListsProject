@@ -1,0 +1,14 @@
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\bin\Debug\netcoreapp3.1\microsoft_tutorial.exe
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\bin\Debug\netcoreapp3.1\microsoft_tutorial.deps.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\bin\Debug\netcoreapp3.1\microsoft_tutorial.runtimeconfig.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\bin\Debug\netcoreapp3.1\microsoft_tutorial.runtimeconfig.dev.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\bin\Debug\netcoreapp3.1\microsoft_tutorial.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\bin\Debug\netcoreapp3.1\microsoft_tutorial.pdb
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.AssemblyInfoInputs.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.AssemblyInfo.cs
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.pdb
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\microsoft_tutorial\microsoft_tutorial\obj\Debug\netcoreapp3.1\microsoft_tutorial.genruntimeconfig.cache
